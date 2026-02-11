@@ -35,7 +35,7 @@ The official 10,000-image test set was kept unseen during training.
 
 ## Models Implemented
 
-### 1️⃣ Baseline CNN
+### Baseline CNN
 
 * 2 Convolutional layers
 * MaxPooling
